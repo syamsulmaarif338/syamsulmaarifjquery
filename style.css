@@ -1,0 +1,115 @@
+body {
+    background: linear-gradient(to right, #24bd2b, #b4aa1f);
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+  
+  .myphoto p {
+    text-align: center;
+    padding: 3px;
+    color: #483847;
+    font-size: 36px;
+  }
+  
+  img {
+    margin-top: 30px;
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 99em;
+    box-shadow: 0px 0px 10px 5px;
+  }
+  td,
+  th {
+    border: 2px solid rgb(214, 14, 14);
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .title {
+    text-align: center;
+    font-family: monospace;
+  }
+  
+  td:hover {
+    background-color: lightblue;
+    transition-delay: 0,6s;
+  }
+  
+  .kepala-tabel {
+    background-color: rgb(153, 74, 1);
+  }
+  
+  .tabel {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .tombol-bestie {
+    background-color: lightskyblue;
+    color: #483847;
+    border-radius: 20px;
+    padding: 15px 5px;
+    width: 120px;
+    box-shadow: 0px 0px 10px 3px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  
+  .tombol-teman a {
+    padding: 15px 25px;
+  }
+  
+  .tombol-temancss {
+    background-color: lightblue;
+    color: #483847;
+    border-radius: 20px;
+    padding: 15px 5px;
+    width: 120px;
+    box-shadow: 0px 0px 10px 3px;
+    margin-right: 450px;
+    margin-top: -48px;
+    margin-left: auto;
+  }
+  
+  .tombol-bestie a {
+    padding: 15px 25px;
+  }
+  
+  .tombol-bestie-css {
+    background-color: lightblue;
+    color: #483847;
+    border-radius: 20px;
+    padding: 15px 5px;
+    width: 120px;
+    box-shadow: 0px 0px 10px 3px;
+    margin-right: 450px;
+    margin-top: -48px;
+    margin-left: auto;
+  }
+  
+  .tombol-bestie-css a {
+    padding: 15px 25px;
+  }
+  
+  .tombol-bestie-jquery {
+    background-color: lightblue ;
+    color:  #483847;
+    border-radius: 20px;
+    padding: 15px 5px;
+    width: 145px;
+    box-shadow: 0px 0px 10px 3px;
+    margin-right: 450px;
+    margin-top: -48px;
+    margin-left: 429px;
+  }
+  
+  .tombol-back-bestie-css a:hover {
+    background-color: lightblue;
+  }
+
+  .ngubah, .ngapus {
+    cursor: pointer;
+  }
